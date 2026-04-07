@@ -8,4 +8,4 @@
 - [AI-Powered Lead Enrichment Pipeline](https://github.com/FTMbyTEN/n8n-lead-enrichment-pipeline)
 
 ## 📫 Connect
-- LinkedIn: [Setting my profile up]
+- LinkedIn: https://www.linkedin.com/in/sheriff-adebisi-524895269/
